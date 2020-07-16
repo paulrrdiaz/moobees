@@ -2,18 +2,18 @@
 
 ## URLs
 
-- [TBD]()
+- [https://moobees.netlify.app](https://moobees.netlify.app)
 
 ## Stack
 
 - [react](https://github.com/facebook/react)
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-- [easy-peasy](https://easy-peasy.now.sh/)
-- [@emotion/styled](https://emotion.sh/docs/styled)
-- [framer-motion](https://www.framer.com/api/motion/)
-- [ramda](https://ramdajs.com/)
-- [axios](https://github.com/axios/axios)
-- [prettier](https://github.com/prettier/prettier)
+- [easy-peasy | State Management](https://easy-peasy.now.sh/)
+- [@emotion/styled | Styled Components](https://emotion.sh/docs/styled)
+- [framer-motion | Animations](https://www.framer.com/api/motion/)
+- [ramda | Functional Programming helpers](https://ramdajs.com/)
+- [axios | xmlhttp requests](https://github.com/axios/axios)
+- [prettier | Formatter](https://github.com/prettier/prettier)
 
 ## Commands
 
