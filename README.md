@@ -13,6 +13,8 @@
 - [framer-motion | Animations](https://www.framer.com/api/motion/)
 - [ramda | Functional Programming helpers](https://ramdajs.com/)
 - [axios | xmlhttp requests](https://github.com/axios/axios)
+- [react-axe | accessibility testing library](https://github.com/dequelabs/react-axe)
+- [react-snap | static prerendering](https://github.com/stereobooster/react-snap)
 - [prettier | Formatter](https://github.com/prettier/prettier)
 
 ## Commands
